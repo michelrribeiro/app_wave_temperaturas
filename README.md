@@ -1,9 +1,9 @@
 ### Aplicação para previsão de temperaturas em séries temporais
 
-Os arquivos do repositório são:
-++ Tratamento e exploração dos dados;
-++ Escolha do melhor modelo de aprendizado com teste de diversos algoritmos;
-++ Desenvolvimento de uma aplicação web com o h2o wave, que eu com certeza recomendaria para todos níveis de conhecimento.
+Os arquivos do repositório são:<br>
++ Tratamento e exploração dos dados;
++ Escolha do melhor modelo de aprendizado com teste de diversos algoritmos;
++ Desenvolvimento de uma aplicação web com o h2o wave, que eu com certeza recomendaria para todos níveis de conhecimento.
 
 **Prints da aplicação rodando no navegador:**  
 
